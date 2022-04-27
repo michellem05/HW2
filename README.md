@@ -1,1 +1,1 @@
-HW #2 was to create a game called Yahtzee.
+Homework #2 was to create a game called Yahtzee.
